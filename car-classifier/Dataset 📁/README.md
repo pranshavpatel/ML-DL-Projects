@@ -1,1 +1,0 @@
-## The dataset for each car is scraped from web using the DuckDuckGo search api
