@@ -20,6 +20,7 @@ Feel free to explore these notebooks to gain insights into the techniques and ap
 Here's a list of the Kaggle notebooks available in this folder:
 
 1. [Capuchin Bird Audio Classification](capuchinbird_audio_classification.ipynb): A notebook that determines if a particular audio file includes Capuchin Bird Audio or not. This notebook was made for the HP Unlocked Challenge 3 (PS: I wasn't able to get to satisfying results, so colaboration is welcome) [LINK TO THE KAGGLE NOTEBOOK](https://www.kaggle.com/code/pranshavpatel/capuchinbird-audio-classification/notebook)
+2. [Introduction to TensorFlow](intro-to-tensorflow.ipynb): A notebook to get started with tensorflow. A TensorFlow 101 [LINK TO THE KAGGLE NOTEBOOK](https://www.kaggle.com/code/pranshavpatel/intro-to-tensorflow/notebook)
 
 Each notebook is accompanied by a link to the corresponding Jupyter Notebook file, allowing you to delve into the details of the analysis and solutions.
 
