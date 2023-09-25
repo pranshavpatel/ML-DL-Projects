@@ -1,6 +1,6 @@
 # ML Projects Repository
 
-Welcome to my ML Projects repository! Here, you'll find a collection of Jupyter Notebook (.ipynb) files from various machine learning projects I've worked on. This repository serves as a showcase of my machine learning skills and a reference for anyone interested in exploring these projects.
+Welcome to my ML Projects repository! Here, you'll find a collection of Jupyter Notebook (.ipynb) files from various machine learning projects I've worked on. This repository serves as a showcase of my machine learning skills and a reference for anyone interested in exploring these projects. I have also included the majority of my kaggle notebooks in this repo along with their public links, so do upvote them if you find them helpful :)
 
 ## Table of Contents
 
