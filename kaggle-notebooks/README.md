@@ -37,5 +37,6 @@ You can use this folder for the following purposes:
 
 If you have suggestions, improvements, or would like to collaborate on a Kaggle project, please don't hesitate to open an issue or submit a pull request. Collaboration and knowledge sharing are encouraged.
 
+
 Happy exploring and learning in the world of Kaggle!
 
