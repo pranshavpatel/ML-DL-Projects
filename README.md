@@ -21,7 +21,7 @@ Feel free to browse through the projects and provide feedback or suggestions. I'
 Here's a list of the projects available in this repository:
 
 1. [Car Classifier](car-classifier/Model/car_classifier.ipynb): A project that classifies a car image into either Ferrari, Mclaren or Mercedes using Computer Vision(using fastai library)
-
+2. [Reverse Image Search Using Image Captioning](reverse-image-search-using-image-captioning/Model/reverse-image-search-using-image-captioning.ipynb): Developeda Reverse Image Search with an Image Captioning model as the underlying architecture of the model. Transformer was used to develop the image encoder text decoder model to generate captions which provides the best accuracy compared to other RNN encoder-decoder models.
 
 Each project is accompanied by a link to the corresponding Jupyter Notebook file, allowing you to dive into the details of the project.
 (More projects in the [Kaggle Notebooks folder](kaggle-notebooks)
